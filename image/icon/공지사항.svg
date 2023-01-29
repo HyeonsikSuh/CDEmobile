@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <g id="공지사항" transform="translate(-355 -963)">
+    <rect id="사각형_24009" data-name="사각형 24009" width="100" height="100" transform="translate(355 963)" fill="#fff"/>
+    <text id="공지사항-2" data-name="공지사항" transform="translate(376 1055)" font-size="16" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-weight="700"><tspan x="0" y="0">공지사항</tspan></text>
+    <g id="comment" transform="translate(382 983)">
+      <path id="패스_21" data-name="패스 21" d="M25.5,13.5h-15v-3h15Z" transform="translate(5 2.778)"/>
+      <path id="패스_22" data-name="패스 22" d="M10.5,19.5h15v-3h-15Z" transform="translate(5 5)"/>
+      <path id="패스_23" data-name="패스 23" d="M3,35V3H43V35H31v8H27a8,8,0,0,1-8-8Zm20-4v4a4,4,0,0,0,4,4V31H39V7H7V31Z" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

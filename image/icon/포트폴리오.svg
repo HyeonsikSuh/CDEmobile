@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <g id="포트폴리오" transform="translate(-570 -963)">
+    <rect id="사각형_24011" data-name="사각형 24011" width="100" height="100" transform="translate(570 963)" fill="#fff"/>
+    <text id="포트폴리오-2" data-name="포트폴리오" transform="translate(583 1055)" font-size="16" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-weight="700"><tspan x="0" y="0">포트폴리오</tspan></text>
+    <path id="portfolio" d="M41.127,13.472H32.155V7.491A2.991,2.991,0,0,0,29.165,4.5H17.2a2.991,2.991,0,0,0-2.991,2.991v5.981H5.241A2.991,2.991,0,0,0,2.25,16.462V37.4a2.991,2.991,0,0,0,2.991,2.991H41.127A2.991,2.991,0,0,0,44.117,37.4V16.462A2.991,2.991,0,0,0,41.127,13.472ZM17.2,7.491H29.165v5.981H17.2ZM5.241,37.4V16.462H41.127V37.4Z" transform="translate(592.816 985.614)"/>
+  </g>
+</svg>

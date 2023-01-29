@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_1" data-name=" 레이어 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1277.55 342.92">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #999;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        isolation: isolate;
+      }
+
+      .cls-1, .cls-3, .cls-4 {
+        font-size: 100.49px;
+      }
+
+      .cls-1, .cls-3, .cls-4, .cls-6, .cls-7 {
+        font-family: Roboto-Bold, Roboto;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        fill: #ed1c24;
+      }
+
+      .cls-4 {
+        fill: blue;
+      }
+
+      .cls-5 {
+        font-family: Roboto-Medium, Roboto;
+        font-size: 20.45px;
+        font-weight: 500;
+      }
+
+      .cls-6 {
+        font-size: 75.37px;
+      }
+
+      .cls-7 {
+        font-size: 50.8px;
+      }
+    </style>
+  </defs>
+  <g class="cls-2">
+    <text class="cls-4" transform="translate(0 85.96)"><tspan x="0" y="0">C</tspan></text>
+    <text class="cls-6" transform="translate(65.75 85.96)"><tspan x="0" y="0">omputational</tspan></text>
+  </g>
+  <g class="cls-2">
+    <text class="cls-3" transform="translate(33.13 201.8)"><tspan x="0" y="0">D</tspan></text>
+    <text class="cls-6" transform="translate(98.44 201.8)"><tspan x="0" y="0">esign</tspan></text>
+  </g>
+  <g class="cls-2">
+    <text class="cls-1" transform="translate(67.41 315.68)"><tspan x="0" y="0">E</tspan></text>
+    <text class="cls-6" transform="translate(123.93 315.68)"><tspan x="0" y="0">ngineering</tspan></text>
+  </g>
+  <path d="m707.02,51.75c-12.9,0-23.36,10.46-23.36,23.36s10.46,23.36,23.36,23.36,23.36-10.46,23.36-23.36-10.46-23.36-23.36-23.36Zm-.03,40.73c-9.57,0-17.32-7.75-17.32-17.32s7.75-17.32,17.32-17.32,17.32,7.75,17.32,17.32-7.75,17.32-17.32,17.32Z"/>
+  <g>
+    <rect x="667.58" y="192.8" width="26.05" height="26.05" transform="translate(46.24 527.01) rotate(-43.68)"/>
+    <rect x="622.85" y="214.32" width="26.05" height="26.05" transform="translate(-24.68 87.02) rotate(-7.68)"/>
+    <rect x="574.01" y="205.44" width="26.05" height="26.05" transform="translate(116.23 631.61) rotate(-61.68)"/>
+    <rect x="539.72" y="169.55" width="26.05" height="26.05" transform="translate(-24.52 257.56) rotate(-25.68)"/>
+    <rect x="533.08" y="120.35" width="26.05" height="26.05" transform="translate(317.05 646.75) rotate(-79.68)"/>
+    <rect x="556.62" y="76.65" width="26.05" height="26.05" transform="translate(95.74 418.24) rotate(-43.68)"/>
+    <rect x="601.36" y="55.13" width="26.05" height="26.05" transform="translate(-3.6 82.72) rotate(-7.68)"/>
+    <rect x="650.19" y="64.03" width="26.05" height="26.05" transform="translate(280.76 624.33) rotate(-61.68)"/>
+    <rect x="684.47" y="99.92" width="26.05" height="26.05" transform="translate(19.95 313.41) rotate(-25.68)"/>
+    <rect x="691.11" y="149.1" width="26.05" height="26.05" transform="translate(418.49 825.83) rotate(-79.68)"/>
+  </g>
+  <path d="m625.12,65.73c-45.3,0-82.03,36.73-82.03,82.03s36.73,82.03,82.03,82.03,82.03-36.73,82.03-82.03-36.72-82.03-82.03-82.03Zm-18.57,114.51c4.36,6.4,10.74,9.6,19.15,9.6,7.68,0,13.46-1.73,17.33-5.18s6.32-9.21,7.35-17.25h19.5c-1.14,12.02-5.57,21.39-13.31,28.12s-18.03,10.1-30.87,10.1c-8.98,0-16.88-2.13-23.71-6.38-6.83-4.26-12.11-10.3-15.82-18.14-3.71-7.84-5.65-16.94-5.8-27.31v-10.52c0-10.62,1.88-19.98,5.65-28.08,3.77-8.1,9.17-14.34,16.21-18.72,7.04-4.38,15.17-6.58,24.41-6.58,12.43,0,22.44,3.36,30.02,10.1,7.58,6.73,11.99,16.26,13.23,28.59h-19.5c-.93-8.1-3.29-13.94-7.08-17.52-3.79-3.58-9.35-5.38-16.67-5.38-8.51,0-15.05,3.11-19.61,9.33-4.56,6.22-6.9,15.35-7,27.37v9.99c0,12.18,2.18,21.48,6.54,27.88h0Z"/>
+  <path d="m730.35,202.42v-112.65h33.27c9.95,0,18.79,2.22,26.5,6.65,7.71,4.44,13.68,10.73,17.91,18.88,4.23,8.15,6.34,17.48,6.34,28.01v5.65c0,10.68-2.13,20.07-6.38,28.16-4.26,8.1-10.32,14.34-18.18,18.72-7.86,4.38-16.88,6.58-27.04,6.58h-32.42Zm19.57-96.86v81.23h12.77c10.26,0,18.14-3.21,23.64-9.63,5.49-6.42,8.29-15.64,8.39-27.66v-6.27c0-12.22-2.66-21.56-7.97-28.01-5.31-6.45-13.02-9.67-23.13-9.67h-13.7Z"/>
+  <path d="m896.87,153.91h-46.26v34.66h54.08v15.63h-73.65v-112.65h73.11v15.78h-53.54v31.1h46.26v15.47h0Z"/>
+  <g>
+    <rect x="719.1" y="87.93" width="7.42" height="7.42" transform="translate(136.78 524.56) rotate(-43.68)"/>
+    <rect x="706.37" y="94.05" width="7.42" height="7.42" transform="translate(-6.7 95.77) rotate(-7.68)"/>
+    <rect x="692.47" y="91.53" width="7.42" height="7.42" transform="translate(282.07 662.91) rotate(-61.68)"/>
+    <rect x="682.7" y="81.31" width="7.42" height="7.42" transform="translate(30.95 305.85) rotate(-25.68)"/>
+    <rect x="680.81" y="67.31" width="7.42" height="7.42" transform="translate(492.02 731.74) rotate(-79.68)"/>
+    <rect x="687.51" y="54.87" width="7.42" height="7.42" transform="translate(150.87 493.59) rotate(-43.68)"/>
+    <rect x="700.25" y="48.74" width="7.42" height="7.42" transform="translate(-.7 94.55) rotate(-7.68)"/>
+    <rect x="714.15" y="51.28" width="7.42" height="7.42" transform="translate(328.91 660.84) rotate(-61.68)"/>
+    <rect x="723.9" y="61.49" width="7.42" height="7.42" transform="translate(43.61 321.75) rotate(-25.68)"/>
+    <rect x="725.8" y="75.49" width="7.42" height="7.42" transform="translate(520.9 782.72) rotate(-79.68)"/>
+  </g>
+  <g>
+    <rect x="706.13" y="299.4" width="14.62" height="14.62" transform="translate(-53.39 429.36) rotate(-32.35)"/>
+    <rect x="679.13" y="306.3" width="14.62" height="14.62" transform="translate(329.76 978.69) rotate(-86.35)"/>
+    <rect x="653.23" y="296.02" width="14.62" height="14.62" transform="translate(5.5 618.36) rotate(-50.35)"/>
+    <rect x="638.33" y="272.48" width="14.62" height="14.62" transform="translate(-49.2 168.75) rotate(-14.35)"/>
+    <rect x="640.11" y="244.67" width="14.62" height="14.62" transform="translate(174.36 760.76) rotate(-68.35)"/>
+    <rect x="657.89" y="223.22" width="14.62" height="14.62" transform="translate(-20.11 391.72) rotate(-32.35)"/>
+    <rect x="684.88" y="216.31" width="14.62" height="14.62" transform="translate(424.96 900.18) rotate(-86.35)"/>
+    <rect x="710.78" y="226.6" width="14.62" height="14.62" transform="translate(79.78 637.55) rotate(-50.35)"/>
+    <rect x="725.69" y="250.14" width="14.62" height="14.62" transform="translate(-40.94 189.7) rotate(-14.35)"/>
+    <rect x="723.91" y="277.95" width="14.62" height="14.62" transform="translate(196.31 859.65) rotate(-68.35)"/>
+  </g>
+  <path d="m689.32,222.58c-25.43,0-46.04,20.61-46.04,46.04s20.61,46.04,46.04,46.04,46.04-20.61,46.04-46.04-20.61-46.04-46.04-46.04h0Zm-.06,80.27c-18.86,0-34.14-15.29-34.14-34.14s15.29-34.14,34.14-34.14,34.14,15.29,34.14,34.14-15.29,34.14-34.14,34.14h0Z"/>
+  <g class="cls-2">
+    <text class="cls-5" transform="translate(915.71 105.91)"><tspan x="0" y="0">Seoultech</tspan></text>
+    <text class="cls-5" transform="translate(915.71 130.44)"><tspan x="0" y="0">Mechanical system design enigineering</tspan></text>
+    <text class="cls-5" transform="translate(915.71 154.98)"><tspan x="0" y="0">CAD/CAM club</tspan></text>
+  </g>
+  <g class="cls-2">
+    <text class="cls-7" transform="translate(916.61 204.12)"><tspan x="0" y="0">CDE</tspan></text>
+  </g>
+</svg>
