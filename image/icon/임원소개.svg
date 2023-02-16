@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
-  <g id="임원소개" transform="translate(-246 -963)">
-    <rect id="사각형_24008" data-name="사각형 24008" width="100" height="100" transform="translate(246 963)" fill="#fff"/>
-    <text id="임원소개-2" data-name="임원소개" transform="translate(267 1055)" font-size="16" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-weight="700"><tspan x="0" y="0">임원소개</tspan></text>
-    <g id="person" transform="translate(271.5 980.691)">
-      <path id="패스_20" data-name="패스 20" d="M41.908,45.309a3.331,3.331,0,0,0,3.4-3.4c0-3.4-3.4-13.6-20.4-13.6s-20.4,10.2-20.4,13.6a3.331,3.331,0,0,0,3.4,3.4ZM7.917,42.1v0Zm.057-.19H41.833l.048-.008.027-.008a9.08,9.08,0,0,0-2.829-5.659c-2.217-2.216-6.39-4.528-14.174-4.528s-11.957,2.313-14.174,4.53A9.106,9.106,0,0,0,7.9,41.895Zm33.92.19v0ZM24.9,21.5a6.8,6.8,0,1,0-6.8-6.8A6.8,6.8,0,0,0,24.9,21.5Zm10.2-6.8A10.2,10.2,0,1,1,24.9,4.5a10.2,10.2,0,0,1,10.2,10.2Z" transform="translate(0 0)" fill-rule="evenodd"/>
-    </g>
-  </g>
-</svg>
