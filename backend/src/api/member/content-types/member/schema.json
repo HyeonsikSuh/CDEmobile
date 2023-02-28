@@ -1,0 +1,36 @@
+{
+  "kind": "collectionType",
+  "collectionName": "members",
+  "info": {
+    "singularName": "member",
+    "pluralName": "members",
+    "displayName": "member",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "studentID": {
+      "type": "uid",
+      "required": true
+    },
+    "password": {
+      "type": "password",
+      "required": true,
+      "private": true
+    },
+    "authorized": {
+      "type": "boolean",
+      "default": false
+    },
+    "graduate": {
+      "type": "date"
+    },
+    "studentname": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

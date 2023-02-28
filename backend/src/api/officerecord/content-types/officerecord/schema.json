@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "officerecords",
+  "info": {
+    "singularName": "officerecord",
+    "pluralName": "officerecords",
+    "displayName": "officerecord",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "username": {
+      "type": "string"
+    },
+    "timeDifference": {
+      "type": "float"
+    },
+    "previousTime": {
+      "type": "datetime"
+    },
+    "currentTime": {
+      "type": "datetime"
+    }
+  }
+}

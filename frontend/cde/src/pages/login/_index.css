@@ -1,0 +1,96 @@
+@import "https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&family=Roboto:wght@400;500;700&display=swap";
+
+:root {
+  --font-family-noto: "Noto Sans KR", sans-serif;
+  --font-family-roboto: "Roboto", sans-serif;
+  --font-weight-one: 700;
+  --font-weight-two: 500;
+
+  --color-one: #6524ff;
+  --color-two: #767676;
+  --color-three: #d0d0d0;
+
+
+  font-family: var(--font-family-noto);
+  font-weight: 500;
+}
+.logo{
+    position: relative;
+    top: 20px;
+}
+.logoimg{
+    width: 60%;
+    margin: auto;
+}
+.logoimage{
+    width: 100%;
+    height: 100%;
+}
+
+.welcometext{
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+    top: 40px;
+}
+
+
+button{
+    background-color: #6524ff;
+    border-radius: 20px;
+    height: 35px;
+    position: relative;
+    top: 120px;
+    width: 100%;
+    border: none;
+}
+.buttontext{
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    position: relative;
+    top: 5%;
+}
+
+.email_input{
+    position: relative;
+    top: 60px;
+    width: 100%;
+    height: 40px;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: solid;
+    border-left-style: none;
+    border-color: #707070;
+    border-width: thin;
+}
+.email_label{
+    position: relative;
+    top: 60px;
+}
+
+.password_input{
+    position: relative;
+    top: 80px;
+    width: 100%;
+    height: 40px;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: solid;
+    border-left-style: none;
+    border-color: #707070;
+    border-width: thin;
+}
+.password_label{
+    position: relative;
+    top: 80px;
+    z-index: 999;
+}
+
+.errormsg{
+    color: red;
+    position: relative;
+    font-size: 12px;
+    top: 50px;
+}

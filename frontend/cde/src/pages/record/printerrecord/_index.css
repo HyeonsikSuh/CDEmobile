@@ -1,0 +1,33 @@
+@import "https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&family=Roboto:wght@400;500;700&display=swap";
+
+:root {
+  --font-family-noto: "Noto Sans KR", sans-serif;
+  --font-family-roboto: "Roboto", sans-serif;
+  --font-weight-one: 700;
+  --font-weight-two: 500;
+
+  --color-one: #6524ff;
+  --color-two: #767676;
+  --color-three: #d0d0d0;
+
+
+  font-family: var(--font-family-noto);
+  font-weight: 500;
+}
+.name{
+    position: relative;
+    top: 0px;
+    font-size: 1rem;
+    font-weight: 400;
+}
+input{
+    
+}
+.contents{
+    display: flex;
+    position: relative;
+}
+p{
+    font-size: 32px;
+    position: relative;
+}

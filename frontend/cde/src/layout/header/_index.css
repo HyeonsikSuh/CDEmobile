@@ -1,0 +1,51 @@
+/* header */
+
+.header {
+    height: 64px;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    background-color: white;
+    z-index: 999;
+  }
+  
+  .header__inner {
+    display: flex;
+    flex: auto;
+  }
+  .login__button{
+    background-color: #F0EFEF;
+    width: 75px;
+    text-align: center;
+    border-radius: 25px;
+}
+.logout__button{
+  background-color: #F0EFEF;
+    width: 75px;
+    text-align: center;
+    border-radius: 25px;
+   position: absolute;
+   top: 13px;
+   right: 0px;
+}
+.username{
+position: absolute;
+  text-align: right;
+  right: 80px;
+  top: 23px;
+  font-size: 12px;
+}
+
+
+
+  .header__title {
+    flex: 1;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    font-family: noto;
+  }
+  .header__title-center {
+    text-align: center;
+  }

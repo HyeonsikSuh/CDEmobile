@@ -1,0 +1,9 @@
+@import "./_fonts.css";
+.container {
+  --wb-padding: 24px;
+  --wb-width: 1200px;
+
+  max-width: calc(var(--wb-width) + var(--wb-padding) * 2);
+  padding: 0 var(--wb-padding) 10px;
+  margin: 0 auto;
+}
